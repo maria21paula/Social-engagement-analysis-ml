@@ -1,6 +1,6 @@
 <h1>Social Media Engagement Analysis</h1>
 
-### [YouTube / Demo Presentation](https://youtu.be/your-demo-link)
+### [Open the interactive report (HTML)](SNS_may_july_2025_analysis.html)
 
 <h2>Description</h2>
 This project explores and models **engagement behavior on social media posts** using Python and machine learning.  
