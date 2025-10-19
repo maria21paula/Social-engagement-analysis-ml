@@ -28,7 +28,7 @@ The goal is to transform raw campaign data into actionable insights that inform 
 
 <p align="center">
 Load and inspect the dataset directly from Google Sheets:<br/>
-<img src="https://your-image-link-1.png" height="70%" width="70%" alt="Data loading step"/>
+<img src="images/dataset_overview.png" height="70%" width="70%" alt="Data loading step"/>
 <br/><br/>
 Generate exploratory visualizations of engagement rate by post type and time variables:<br/>
 <img src="https://your-image-link-2.png" height="70%" width="70%" alt="Engagement by time and post type"/>
